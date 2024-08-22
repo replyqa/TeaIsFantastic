@@ -1,0 +1,16 @@
+{
+  "name": "@tisf/run",
+  "version": "0.0.1",
+  "description": "Run scripts from Github",
+  "bin": {
+    "run": "bin/run.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "ora": "^8.0.1",
+    "yaml": "^2.5.0"
+  }
+}
